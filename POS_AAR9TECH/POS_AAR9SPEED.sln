@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_AAR9SPEED", "POS_AAR9TECH\POS_AAR9SPEED.csproj", "{42D47255-DEA2-47E8-9400-049ED1C88418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D47255-DEA2-47E8-9400-049ED1C88418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D47255-DEA2-47E8-9400-049ED1C88418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D47255-DEA2-47E8-9400-049ED1C88418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D47255-DEA2-47E8-9400-049ED1C88418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFAEA5B-84B2-4E6E-8585-02804FD6D509}
+	EndGlobalSection
+EndGlobal
